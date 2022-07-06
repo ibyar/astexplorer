@@ -25,6 +25,7 @@ The AST explorer provides following code parsers:
   - [parse5][]
   - [@angular/compiler][]
   - [@angular-eslint/template-parser][]
+  - [@ibyar/elements][]
   - [svelte][]
   - [posthtml][]
   - [hyntax][]
@@ -198,6 +199,7 @@ are included so you can prototype your own plugins:
 [svelte]: https://github.com/sveltejs/svelte
 [hyntax]: https://github.com/nik-garmash/hyntax
 [java-parser]: https://github.com/jhipster/prettier-java/tree/master/packages/java-parser
+[@ibyar/elements]: https://github.com/ibyar/aurora/tree/dev/packages/elements
 
 ### Contributions
 
