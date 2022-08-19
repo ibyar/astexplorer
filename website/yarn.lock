@@ -1309,10 +1309,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@ibyar/elements@^0.5.62":
-  version "0.5.62"
-  resolved "https://registry.yarnpkg.com/@ibyar/elements/-/elements-0.5.62.tgz#604f549bb5ab05e8384c20cc8802681552b56796"
-  integrity sha512-RhP8ZMCeheTGwxKgSGUMp5soH7b1IBs+aQ288BYIEqtVLnLuZtc6lhPvQbmd8tVJh53QXzl7KLzGAZ9s5+me+g==
+"@ibyar/elements@^0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@ibyar/elements/-/elements-0.6.1.tgz#781818ca44a29267976418f5283e67e6c8708b80"
+  integrity sha512-mbSucFtixf7m5/CTjuemCO/lSelPJNnBObGngxU7U9charhh6/0H0rQpgGTo1TqWyrPUyRSAJ5LEyNCtLHcNkQ==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
