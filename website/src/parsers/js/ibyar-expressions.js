@@ -16,6 +16,6 @@ export default {
   },
 
   parse(parser, code) {
-    return parser.parse(code);
+    return parser.parse(code, {mode: 1, addLocation: true });
   },
 };
